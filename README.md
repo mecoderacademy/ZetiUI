@@ -43,3 +43,4 @@ Acknowledgements:
 
 I could have had further test cases (HttpService) ect.. and re-used certain components that were common but for times sake I just created sepereate components.
 if the project looks messy, this wouldnt be production ready. I would install tools like eslint ect.. 
+Also not the prettiest of UI design. For times sake I kept it basic. I would have utilised sending file for download or endless scrolling with downloadable option
