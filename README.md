@@ -37,7 +37,7 @@ module.exports = {
 use command npn run start to run the app. if you make changes hot loading doesnt work so will need to stop the project and re-run 
 to run tests run npm run test
 
-
+In App.tsx you may need to change the url on line 20 to whatever the backend api is. 
 
 Acknowledgements:
 
