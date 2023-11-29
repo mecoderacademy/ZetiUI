@@ -1,0 +1,40 @@
+{
+  "scripts": {
+    "start": "tsc && react-scripts start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.39",
+    "@types/react-dom": "^18.2.17",
+    "bootstrap": "^5.3.2",
+    "cors": "^2.8.5",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.1",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.2",
+    "@types/jest": "^29.5.10",
+    "jest": "^27.5.1",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.3.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
